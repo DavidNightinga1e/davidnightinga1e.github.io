@@ -1,0 +1,46 @@
+﻿{
+  "Questions": [
+    {
+      "Text": "what is 3 + 3",
+      "Answers": [
+        {
+          "Text": "4",
+          "Value": 4
+        },
+        {
+          "Text": "3",
+          "Value": 3
+        },
+        {
+          "Text": "2",
+          "Value": 2
+        },
+        {
+          "Text": "1",
+          "Value": 1
+        }
+      ]
+    },
+    {
+      "Text": "what color is cat",
+      "Answers": [
+        {
+          "Text": "dog",
+          "Value": 4
+        },
+        {
+          "Text": "blue",
+          "Value": 1
+        },
+        {
+          "Text": "yes",
+          "Value": 3
+        },
+        {
+          "Text": "no",
+          "Value": 1
+        }
+      ]
+    }
+  ]
+}
