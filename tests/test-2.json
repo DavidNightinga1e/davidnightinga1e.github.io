@@ -1,46 +1,85 @@
 ﻿{
   "Questions": [
     {
-      "Text": "what is 3 + 3",
+      "Text": "Громкий ли у тебя мяв",
       "Answers": [
         {
-          "Text": "4",
+          "Text": "Ну очень громкий",
           "Value": 4
         },
         {
-          "Text": "3",
+          "Text": "Очень громкий",
           "Value": 3
         },
         {
-          "Text": "2",
+          "Text": "Средний",
           "Value": 2
         },
         {
-          "Text": "1",
+          "Text": "Тихий",
           "Value": 1
         }
       ]
     },
     {
-      "Text": "what color is cat",
+      "Text": "Сколько ты весишь",
       "Answers": [
         {
-          "Text": "dog",
+          "Text": "Больше 1000 кг",
           "Value": 4
         },
         {
-          "Text": "blue",
-          "Value": 1
-        },
-        {
-          "Text": "yes",
+          "Text": "Больше 10 кг",
           "Value": 3
         },
         {
-          "Text": "no",
+          "Text": "5-10 кг",
+          "Value": 2
+        },
+        {
+          "Text": "меньше 5 кг",
           "Value": 1
         }
       ]
+    },
+    {
+      "Text": "Сколько ты ешь",
+      "Answers": [
+        {
+          "Text": "фуру кошачьего корма в час",
+          "Value": 4
+        },
+        {
+          "Text": "Много",
+          "Value": 3
+        },
+        {
+          "Text": "Средне",
+          "Value": 2
+        },
+        {
+          "Text": "Мало",
+          "Value": 1
+        }
+      ]
+    }
+  ],
+  "Results": [
+    {
+      "Text": "Поздравляю, ты - маленькая кошка",
+      "MinimumValue": 0
+    },
+    {
+      "Text": "Поздравляю, ты - средняя кошка",
+      "MinimumValue": 4
+    },
+    {
+      "Text": "Поздравляю, ты - большая кошка",
+      "MinimumValue": 7
+    },
+    {
+      "Text": "Поздравляю, ты никогда в глаза не видел кошек",
+      "MinimumValue": 10
     }
   ]
 }
